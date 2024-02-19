@@ -1,0 +1,30 @@
+.profile{
+    border-radius: 50%;
+}
+
+h1,h2,h3,h4{
+    color: aqua;
+}
+
+.texts{
+    margin-top: -90px;
+    text-align: center;
+}
+
+#skills h3{
+    text-align: center;
+    margin: 100px;
+}
+
+#contact{
+    text-align: center;
+}
+
+#footer{
+    background-color: aqua;
+    margin-bottom: -35px;
+}
+
+#footer li{
+    color: aqua;
+}
